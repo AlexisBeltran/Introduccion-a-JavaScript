@@ -1,0 +1,19 @@
+{
+    "Empleados" : [
+        {
+            "cve_empleado": 1,
+            "nombre": "Alexis",
+            "puesto": "Programador"
+        },
+        {
+            "cve_empleado": 2,
+            "nombre": "Pedro",
+            "puesto": "UX/ UI"
+        },
+        {
+            "cve_empleado": 3,
+            "nombre": "Andrea",
+            "puesto": "Marketing"
+        }
+    ]
+}

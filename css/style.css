@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(117, 50, 50);
+}
+.contenido{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
